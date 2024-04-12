@@ -1,7 +1,6 @@
 
 # Angular CRUD with LOGIN/SIGNUP ALL FUNCTIONALITY
-
-        This Angular project is a complete solution for building a CRUD (Create, Read, Update, Delete) application with robust authentication and authorization features. It includes functionalities like user registration, login, forget password, password hashing, and role-based access control (RBAC), ensuring secure and efficient management of data.
+  This Angular project is a complete solution for building a CRUD (Create, Read, Update, Delete) application with robust authentication and authorization features. It includes functionalities like user registration, login, forget password, password hashing, and role-based access control (RBAC), ensuring secure and efficient management of data.
 
 
 ## Features
